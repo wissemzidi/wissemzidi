@@ -19,7 +19,7 @@
   </a>
   <br />
   <a href="https://github.com/Wissem-Zidi">
-    <img src="https://komarev.com/ghpvc/?username=Wissem-Zidi&style=flat-square&color=blue" alt=""/>  
+    <img src="https://komarev.com/ghpvc/?username=Wissem-Zidi&style=for-the-badge&color=blue" alt=""/>  
   </a>
 </div>
 
