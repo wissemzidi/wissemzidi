@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="./Wissem-Zidi.png" width="100"/>
+  <img src="./Wissem-Zidi-logo.jpg" width="100%"/>
 </div>
 
 <!--
