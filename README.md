@@ -59,9 +59,13 @@
 <hr />
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Wissem-Zidi&theme=dark&background=000000)](https://git.io/streak-stats)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wissem-Zidi&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
+<div align="center">
+  <br />
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=Wissem-Zidi&theme=dark&background=000000" alt="">
+  <br />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wissem-Zidi&layout=compact&theme=vision-friendly-dark" alt="">
+</div>
 
 
 
