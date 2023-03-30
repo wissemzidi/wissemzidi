@@ -18,8 +18,8 @@
     <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=Gmail&logoColor=white" alt="Email Badge"/>
   </a>
   <br />
-  <a href="https://github.com/Wissem-Zidi">
-    <img src="https://komarev.com/ghpvc/?username=Wissem-Zidi&style=for-the-badge&color=blue" alt=""/>  
+  <a href="https://github.com/wissemzidi">
+    <img src="https://komarev.com/ghpvc/?username=wissemzidi&style=for-the-badge&color=blue" alt=""/>  
   </a>
 </div>
 
@@ -61,10 +61,10 @@
 ### :fire: My Stats :
 <div align="center">
   <br />
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=Wissem-Zidi&theme=dark&background=000000" alt="">
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=wissemzidi&theme=dark&background=000000" alt="">
   <br />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wissem-Zidi&layout=compact&theme=vision-friendly-dark" alt="">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wissemzidi&layout=compact&theme=vision-friendly-dark" alt="">
 </div>
 
 
